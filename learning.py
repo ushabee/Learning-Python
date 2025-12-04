@@ -1,1 +1,2 @@
-print('hello usha')
+def algo1():
+    pass
